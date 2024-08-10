@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @shivamkumar3236
-- 👀 I’m interested in Dynamic Project Work
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me shivamavasti38@gmail.com
-- 😄 Pronouns: A passionate frontend developer from Bihar 
-- ⚡ Fun fact: i am Coder😜
+<h1 align="center">Hi 👋, I'm SHIVAMKUMAR</h1>
+<h3 align="center">I am passionate frontend developer from Bihar</h3>
 
-Connect with me:
-Email:shivamavasti38@gmail.com
-Toll:9939253236
+- 🌱 I’m currently learning **on Dynamic projects Work**
+
+- 💬 Ask me about **nodejs**
+
+- 📫 How to reach me **shivamavasti38@gmail.com**
+
+- ⚡ Fun fact **I am Developer😜**
+
+-    I'm looking to collaborate on Web Development
